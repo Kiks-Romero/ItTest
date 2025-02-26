@@ -8,18 +8,14 @@ Sigue estos pasos para clonar e iniciar el proyecto:
 
 ### 1 Clonar el repositorio o descargar el repositorio
 
-```bash
-npm run install
-```
-
-### 2 Clonar el repositorio o descargar el repositorio
+### 2 Instalar las dependencias
 
 ```bash
 npm run install
 ```
 
-### 3 Clonar el repositorio o descargar el repositorio
+### 3 Correr el entorno de desarrollo
 
 ```bash
-npm run install
+npm run dev
 ```
